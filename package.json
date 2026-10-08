@@ -1,0 +1,1 @@
+{ "name": "pagelens-ai-visibility", "private": true, "type": "module", "version": "0.1.0", "scripts": { "deploy": "wrangler deploy" }, "devDependencies": { "wrangler": "^4" } }

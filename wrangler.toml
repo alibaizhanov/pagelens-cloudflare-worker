@@ -1,0 +1,7 @@
+name = "pagelens-ai-visibility"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Your site ID from PageLens → Site Settings
+PAGELENS_SITE_ID = ""
